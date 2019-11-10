@@ -5,10 +5,10 @@ def my_hash
 
 
 def shipping_manifest
-  the manifest = { "whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3 } 
+  authenticate_or_request_with_http_basicmanifest = { "whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3 } 
   
 end
-shipping_manifest
+the_manifest
 
 def retrieval
   shipping_manifest = {
