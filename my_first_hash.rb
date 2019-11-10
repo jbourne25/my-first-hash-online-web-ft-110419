@@ -8,6 +8,7 @@ def shipping_manifest
   the manifest = { "whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3 } 
   
 end
+shipping_manifest
 
 def retrieval
   shipping_manifest = {
